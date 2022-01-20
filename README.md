@@ -1,14 +1,15 @@
-#javascript-checkout
+# javascript-checkout
 
 A short exercise to practice working with a more complicated JavaScript object. 
 
-#Running the project
+# Running the project
 
 - You will need to have node installed on your machine
 - Clone this repo to your local machine
 - Navigate to the project root
 - Run the project in the command line using 'node app.js'
 
+# The brief
 
 I have completed the brief which was to be able to add items to a basket, calculate the total of the basket and remove items from the basket. It doesn't yet deal with errors such as the price of the spa being a string.
 
