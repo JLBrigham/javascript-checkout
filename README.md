@@ -7,7 +7,7 @@ A short exercise to practice working with a more complicated JavaScript object.
 - You will need to have node installed on your machine
 - Clone this repo to your local machine
 - Navigate to the project root
-- Run the project in the command line using 'node app.js'
+- Run the project in the command line using `node app.js`
 
 # The brief
 
